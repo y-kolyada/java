@@ -11,9 +11,9 @@
 - [Template Engines for Spring, 2021](https://www.baeldung.com/spring-template-engines)
 - [Survey on Template Engines in Java, 2021](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01007.pdf)
 - [Spring template engine performance tests, 2022](https://ozkanpakdil.github.io/spring-comparing-template-engines/)
-- [JBake is a Java based static site/blog generator for developers](https://jbake.org/)
+- [JBake is a Java based static site/blog generator for developers, 2022](https://jbake.org/)
 
-|Engine      |i18        |natural templates   |
+|Engine      |i18        |Natural templates   |
 |:-----------|:---------:|:------------------:|
 |Thymeleaf   |yes        |yes                 |
 |Freemarker  |yes        |no                  |
