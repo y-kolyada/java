@@ -1,10 +1,22 @@
-# Template engines for java
+# Template engines for java web development
 
 - [Thymeleaf, license Apache-v2.0](https://freemarker.apache.org/)
 - [Apache FreeMarker, license Apache-v2.0](https://github.com/apache/freemarker)
 - [Apache Groovy, license Apache-v2.0](https://github.com/apache/groovy)
 - [Mustache, license MIT](https://github.com/mustache/mustache.github.com)
 - [Jade, license MIT ](https://github.com/dscape/jade)
+
+## Sources
+- [Comparison of web template engines, 2022](https://en.wikipedia.org/wiki/Comparison_of_web_template_engines)
+- [Template Engines for Spring, 2021](https://www.baeldung.com/spring-template-engines)
+- [Survey on Template Engines in Java, 2021](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01007.pdf)
+- [Spring template engine performance tests, 2022](https://ozkanpakdil.github.io/spring-comparing-template-engines/)
+- [JBake is a Java based static site/blog generator for developers](https://jbake.org/)
+
+|Engine      |i18        |natural templates   |
+|:-----------|:---------:|:------------------:|
+|Thymeleaf   |yes        |yes                 |
+|Freemarker  |yes        |no                  |
 
 ## Spring initializr
 [start.sprint.io](https://start.sprint.io)
