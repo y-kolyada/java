@@ -12,7 +12,7 @@
 Present at Spring **initializr** [start.sprint.io](https:\\start.sprint.io)
 
 Thymeleaf on GitHub 2023-01
-![Thymeleaf on GitHub 2023-01](https://)
+![Thymeleaf on GitHub 2023-01](https://github.com/y-kolyada/java/blob/main/docs/templates/img/github_thymeleaf_1.png)
 
 ## Apache Freemarker
 Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.) based on templates and changing data.
@@ -22,7 +22,7 @@ Java library to generate text output (HTML web pages, e-mails, configuration fil
 Present at Spring **initializr** [start.sprint.io](https:\\start.sprint.io)
 
 Freemarker on GitHub 2023-01
-![Freemarker on GitHub 2023-01](https://)
+![Freemarker on GitHub 2023-01](https://github.com/y-kolyada/java/blob/main/docs/templates/img/github_freemarker_1.png)
 
 ## Groovy Templates
 [Groovy](https://groovy-lang.org/) templating engine.
@@ -32,7 +32,7 @@ Groovy is a powerful multi-faceted programming language for the JVM platform. It
 Present at Spring **initializr** [start.sprint.io](https:\\start.sprint.io)
 
 Groovy on GitHub 2023-01
-![Groovy on GitHub 2023-01](https://)
+![Groovy on GitHub 2023-01](https://github.com/y-kolyada/java/blob/main/docs/templates/img/github_groovy_1.png)
 
 ## Mustache
 [Mustache](http://mustache.github.io/) is logic-less Templates. There are no if statements, else clauses, or for loops. Instead there are only tags.
@@ -40,7 +40,7 @@ Groovy on GitHub 2023-01
 Present at Spring **initializr** [start.sprint.io](https:\\start.sprint.io)
 
 Mustache on GitHub 2023-01
-![Mustache on GitHub 2023-01](https://)
+![Mustache on GitHub 2023-01](https://github.com/y-kolyada/java/blob/main/docs/templates/img/github_mustache_1.png)
 
 ## Jade
 Full documentation is at [jade-lang.com](http://jade-lang.com/)
@@ -57,4 +57,4 @@ Implementations in other languages:
 Not Present at Spring **initializr** [start.sprint.io](https:\\start.sprint.io)
 
 Jade on GitHub 2023-01
-![Jade on GitHub 2023-01](https://)
+![Jade on GitHub 2023-01](https://github.com/y-kolyada/java/blob/main/docs/templates/img/github_jade_1.png)
