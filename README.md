@@ -1,3 +1,3 @@
 # java
 
-[Template engines for java](https://github.com/y-kolyada/CloudDevOpsFun2022L1/tree/main/04EDOL1AWS#readme)
+[Template engines for java](https://github.com/y-kolyada/java/blob/main/docs/templates/README.md)
